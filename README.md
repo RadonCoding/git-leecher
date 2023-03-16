@@ -1,5 +1,5 @@
 ### Prerequisites
-1. Install [gitleaks](https://github.com/gitleaks/gitleaks) and add it to your PATH.
+1. Install [Gitleaks](https://github.com/gitleaks/gitleaks) and add it to your PATH.
 
 ### Info
 It works by using GitHub's API to retrieve 100 repositories, which are then scanned using Gitleaks.
